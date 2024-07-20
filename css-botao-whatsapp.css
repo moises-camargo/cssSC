@@ -1,25 +1,5 @@
 
-  /* Estilize o link como um botão */
-  a {
-    display: block;
-    padding: 15px 30px;
-    background-color: #25D366;
-    color: #fff;
-    text-decoration: none;
-    text-align: center;
-    border: none;
-    border-radius: 35px;
-    align-items: center !important;
-  }
-
-  /* Estilo para a imagem do WhatsApp */
-  a img {
-    margin-right: 10px;
-    width: 20px; /* Ajuste o tamanho conforme necessário */
-    height: auto;
-  }
-
-  /* Estilo quando o usuário passa o mouse sobre o link */
-  a:hover {
-    background-color: #128C7E;
-  }
+  /* retirar botão informação site google teckphone */
+.dZA9kd {
+    display: none;
+}
